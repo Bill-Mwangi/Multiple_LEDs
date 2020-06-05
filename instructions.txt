@@ -1,0 +1,6 @@
+Multiple_LEDs
+Connect each of the positive terminals of the LEDs to one digital output port
+ on your board and the negative terminals in series with a 330 Ohms resistor.
+The resistors should terminate in common ground connection across the breadboard
+ from where the common ground is connected to the ground terminal of the board.
+Upload the code to the board and watch the LEDs light up.
