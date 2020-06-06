@@ -1,2 +1,1 @@
-# Multiple_LEDs
- 
+# Connecting multiplw LEDs to an arduino board
